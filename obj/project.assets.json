@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Djaouida\\Desktop\\INES\\design pattern\\DesignPatters\\DesignPatters.csproj",
-      "projectName": "DesignPatters",
-      "projectPath": "C:\\Users\\Djaouida\\Desktop\\INES\\design pattern\\DesignPatters\\DesignPatters.csproj",
+      "projectUniqueName": "C:\\Users\\Djaouida\\Desktop\\INES\\design pattern\\DesignPatters\\DesignPatterns.csproj",
+      "projectName": "DesignPatterns",
+      "projectPath": "C:\\Users\\Djaouida\\Desktop\\INES\\design pattern\\DesignPatters\\DesignPatterns.csproj",
       "packagesPath": "C:\\Users\\Djaouida\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Djaouida\\Desktop\\INES\\design pattern\\DesignPatters\\obj\\",
       "projectStyle": "PackageReference",
