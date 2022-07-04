@@ -10,5 +10,19 @@ namespace DesignPatters
         }
 
         // Classe scooter qui a deux classes filles : une nommée « ScooterElectricité » et l’autre « ScooterEssence »
+        abstract class Scooter
+        {
+
+        }
+
+        class ScooterElectrique : Scooter
+        {
+
+        }
+
+        class ScooterEssence : Scooter
+        {
+
+        }
     }
 }
