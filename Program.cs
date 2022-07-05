@@ -90,4 +90,5 @@ namespace DesignPatterns
             auto.AfficherCarac();
         }
     }
+
 }
