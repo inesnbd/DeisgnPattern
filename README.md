@@ -12,4 +12,4 @@ Le modèle de générateur est utilisé lorsqu'il y a une configuration complexe
 La méthode Factory est un modèle de conception créationnel qui résout le problème de la création d'objets produit sans spécifier leurs classes concrètes. Factory Method définit une méthode qui doit être utilisée pour créer des objets au lieu d'un appel direct au constructeur (nouvel opérateur).
 
 # 4. Singleton 
-Modèle de conception créatif qui garantit l'existence d'un seul objet de son genre et fournit un point d'accès unique à celui-ci pour tout autre code. Le singleton présente presque les mêmes avantages et inconvénients que les variables globales. Bien qu'ils soient très pratiques, ils brisent la modularité de votre code.
+Le pattern singleton est utilisé pour créer une instance unique d’une classe, le pattern abstract est susceptible d’utiliser ce type d’instance unique.
