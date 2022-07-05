@@ -16,3 +16,6 @@ Le pattern singleton est utilisé pour créer une instance unique d’une classe
 
 # 5. Prototype
 Le pattern prototype permet la création d’objets à partir d’autres objets appelés « prototypes » disposant d’une méthode Clone() qui retourne un objet identique 
+
+# 6. Composite
+Composite est un modèle de conception structurelle qui permet de composer des objets dans une structure arborescente et de travailler avec comme s'il s'agissait d'un objet singulier. Ce terme est utilisé lorsque vous voulez décrire un objet contenant un autre. Cela se produit très souvent dans la discussion sur la composition plutôt que sur l'héritage. L'approche de composition fournit une encapsulation plus forte que l'héritage, car une modification apportée à une classe principale ne casse pas nécessairement le code qui s'appuie sur la classe frontale. Les principaux avantages de la composition sont qu'avec des interfaces soigneusement conçues, nous pouvons modifier les références des classes principales au moment de l'exécution.
