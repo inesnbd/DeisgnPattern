@@ -19,3 +19,6 @@ Le pattern prototype permet la création d’objets à partir d’autres objets 
 
 # 6. Composite
 Composite est un modèle de conception structurelle qui permet de composer des objets dans une structure arborescente et de travailler avec comme s'il s'agissait d'un objet singulier. Ce terme est utilisé lorsque vous voulez décrire un objet contenant un autre. Cela se produit très souvent dans la discussion sur la composition plutôt que sur l'héritage. L'approche de composition fournit une encapsulation plus forte que l'héritage, car une modification apportée à une classe principale ne casse pas nécessairement le code qui s'appuie sur la classe frontale. Les principaux avantages de la composition sont qu'avec des interfaces soigneusement conçues, nous pouvons modifier les références des classes principales au moment de l'exécution.
+
+# 7. Adapter
+Le pattern adapter est de convertir l’interface d’une classe donnée en une interface attendue par des clients afin qu’ils puissent travailler ensemble. En résumé, il permet de donner à une classe existante une nouvelle interface pour répondre aux besoins d’un client.
