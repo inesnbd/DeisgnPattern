@@ -13,3 +13,6 @@ La méthode Factory est un modèle de conception créationnel qui résout le pro
 
 # 4. Singleton 
 Le pattern singleton est utilisé pour créer une instance unique d’une classe, le pattern abstract est susceptible d’utiliser ce type d’instance unique.
+
+# 5. Prototype
+Le pattern prototype permet la création d’objets à partir d’autres objets appelés « prototypes » disposant d’une méthode Clone() qui retourne un objet identique 
