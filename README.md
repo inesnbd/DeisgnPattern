@@ -35,5 +35,8 @@ Ce pattern permet d’ajouter dynamiquement des fonctionnalités supplémentaire
 # 11. Comportement 
 Les patterns de comportement distribuent les algorithmes/traitement entre les objets. Ils organisent les interactions en renseignant le « flux de contrôle » et de traitement au sein d’un système d’objet. La distribution se fait soit par héritage soit par délégation.
 
-# 12. Le pattern chain of responsability
+# 12. Chain of responsability
 Le but est de construire une chaine d’objets de manière à ce que si un objet de la chaîne ne peut repondre à une requête, il puisse la passer a un « successeur » et ainsi de suite jusqu'à ce que l’un des objets puissent y répondre.
+
+# 13. Command 
+Ce pattern transforme une requête en objet ceci facilite les opérations relatives à la requête ex : annulation, queue, suivi etc…
