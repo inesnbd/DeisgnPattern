@@ -31,3 +31,9 @@ Ce pattern offre un cadre de conception d’une composition d’objet dont on ne
 
 # 10. Decorator
 Ce pattern permet d’ajouter dynamiquement des fonctionnalités supplémentaires à un objet sans modifier l’interface del’objet (« les clients de l’objet ne sont pas au courant de la modification »). Il s’agit d’une alternative à la création d’une sous-classe qui permettrait d’enrichir l’objet.
+
+# 11. Comportement 
+Les patterns de comportement distribuent les algorithmes/traitement entre les objets. Ils organisent les interactions en renseignant le « flux de contrôle » et de traitement au sein d’un système d’objet. La distribution se fait soit par héritage soit par délégation.
+
+# 12. Le pattern chain of responsability
+Le but est de construire une chaine d’objets de manière à ce que si un objet de la chaîne ne peut repondre à une requête, il puisse la passer a un « successeur » et ainsi de suite jusqu'à ce que l’un des objets puissent y répondre.
