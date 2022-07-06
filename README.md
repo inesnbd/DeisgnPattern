@@ -40,3 +40,6 @@ Le but est de construire une chaine d’objets de manière à ce que si un objet
 
 # 13. Command 
 Ce pattern transforme une requête en objet ceci facilite les opérations relatives à la requête ex : annulation, queue, suivi etc…
+
+# 14. Iterator
+Itérateur est un patron de conception comportemental qui permet de parcourir les éléments d’une collection sans révéler sa représentation interne (liste, pile, arbre, etc.).
