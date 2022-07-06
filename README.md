@@ -22,3 +22,12 @@ Composite est un modèle de conception structurelle qui permet de composer des o
 
 # 7. Adapter
 Le pattern adapter est de convertir l’interface d’une classe donnée en une interface attendue par des clients afin qu’ils puissent travailler ensemble. En résumé, il permet de donner à une classe existante une nouvelle interface pour répondre aux besoins d’un client.
+
+# 8. Bridge 
+Le pattern Bridge est utilisé pour séparer le comportement de l’implémentation de l’interface et de l’implémentation de l’objet. On s’intéresse aux demandes d’immatriculation des véhicules. Le formulaire de demande d’immatriculation possède deux implémentations différentes.
+
+# 9. Composite
+Ce pattern offre un cadre de conception d’une composition d’objet dont on ne connait pas la profondeur. (On peut utiliser un arbre en tant qu’analogie). Les « clients » interagissent avec les objets sans connaitre la structure de l’arbre.
+
+# 10. Decorator
+Ce pattern permet d’ajouter dynamiquement des fonctionnalités supplémentaires à un objet sans modifier l’interface del’objet (« les clients de l’objet ne sont pas au courant de la modification »). Il s’agit d’une alternative à la création d’une sous-classe qui permettrait d’enrichir l’objet.
